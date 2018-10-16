@@ -1,0 +1,11 @@
+Q: Briefly describe one way how data travels on the internet.
+ A:You can plug a ethernet cord into your device
+
+Q: What is the relationship between an IP address and the DNS?
+A: Domain Name System translates names of domains to IP addresses which can be called forward DNS while a IP address does the opposite. This is called a reverse DNS.
+
+Q: What is a cookie?
+A: Unfortunately to name it is not a delicious baked goodie that is shared. It is in reality a enabled scanner to track your activity to prepare a customized site for you whilst it identifies your server and can save login info.
+
+Q: List the three basic parts of a URL.
+A: 1.Internet protocol 2. Host name 3. File location
