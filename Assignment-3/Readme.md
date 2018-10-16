@@ -1,13 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<body>
-<H1> A3 Part 2
+<h1> A3 Part 2
 </h1>
 
-Q:) How many main <head> and <body> elements can a page have? How are these elements different, or what role do they play?
-
-A:)<h5> Head </h5>
+<p> Q:) How many main head and body elements can a page have? How are these elements different, or what role do they play?
+</p>
+<p>
+A:)<b> Head: </b>
 <a href="https://media-ed-online.github.io/intro-web-dev/topic-04/head-elements/contains" target="_blank">high-level info about the site, and always comes first within the root</a>
 
 <ul>
@@ -29,7 +26,7 @@ Q:) Describe the difference between structural and semantic markup.
 
 A:) <b>Structual</b> imbeds info i.e:
 
-<Ol>
+<ol>
 <li> Headings </li>
 <li> Paragraphs </li>
 <li> Breaks </li>
@@ -58,9 +55,8 @@ A:) This ended up being more time consuming than I budgeted for, as I was in an 
 E.) Embed a screenshot of your workspace at some point during your development cycle.
 </p>
 
-![Screenshot_5](./Images/Screenshot_5.png) 
+![Screenshot_5](./Images/Screenshot_5.png)
 
-<p>
-</head>
+</p>
 </body>
 </html>
