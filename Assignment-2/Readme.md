@@ -2,7 +2,6 @@
 
  ** Manages changes to docs, websites and information; This helps us stay organized overall and manage our files.**
 
-<<<<<<< HEAD
 ** D. I do not understand what a work cycle is. I'm assuming it means my steps I took in which I did this assignment or simply how do you embed things with relative URLs.**
 
 ** Urls are very odd when you have NO guide to go off of, perhaps the phrasing just confused me.
@@ -15,6 +14,3 @@ regaurdless you**
 [Responses](./Assignment-2/responses.txt)
 
 [Screenshot A2](./Assignment-2/images.png)
-=======
-![Screenshot A2](./Images/Screenshot_Assignment2%20-%20Copy.png )
->>>>>>> aec85d20abbb2aba4ef2485a3e74dfd4ba4a3479
