@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <meta charset="UTF-8">
+   <meta name="description" content="A short description...">
+   <meta name="author" content="Chase McLane">
+   <meta name="keywords" content="Creative, nails">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1>  <title>Get your nails done boo</title> </h>
+      <style>
+      h1 {
+        color: gray;
+        text-align: center;
+     }
+         .page-block {background: pink;}
+         .centered {text-align: center;}
+         .first-line {font-style: italic;}
+         .body {
+           background-image: url("./Images/snow.jpg");
+         }
+      </style>
+   </head>
+
+   <body>
+      <div id="header" class="page-block centered">
+         <img src="./images/nails-pink.png"/>
+
+      </div>
+      <div class="behind-text padded">
+      <div id="Creative Outlet-block" class="page-block">
+         <h2 class="centered">Nail Art can be a fantastic creative outlet</h2>
+         <p id="Outlet" class="description">
+            <span class="first-line"> nails can be compared to painting or sculpting in expressing ourselves.</span>
+</div>
+             It is the art we will always have with us. Similar to our skin being a canvas our nails can be too.
+             You can choose a wide arrangement of colors and types.
+             Nail technology has been expanding. Tools are becoming more affordable and anyone can use them.
+         </p>
+      </div>
+
+      <div id="Why get your nails done-block" class="page-block">
+         <h2 class="centered">Why get your nails done?</h2>
+         <p id="Why do your nails" class="description">
+            <span class="first-line">Doing your nails can help your mental health and boost your confidence.</span>
+             There are so many varieties of colors and shapes to add to nails.
+             Getting your nails done will keep your nails looking nice longer; Simple routine maintenance
+              every couple weeks will guarantee the satisfaction they can bring you.
+         </p>
+         <p>
+         <ul> <b>Some Materials you'll need:</b>
+        </p>
+         <p><il> Your favorite nail polish </il>
+        <p><il> <i>'Kiara Sky'</i>
+        <p><il> acrylic powder </il>
+      <p> <il> liquid acrylic </il>
+    <p>  <il> small bowl </il>
+    <p> <il> brush </il>
+    </p>
+         </ul>
+         </div>
+      </style>
+  </body>
+</html>
