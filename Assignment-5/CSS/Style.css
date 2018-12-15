@@ -5,8 +5,8 @@ color: black
 }
 
 .circle {
-  height: 25px;
-  width: 25px;
+  height: 100px;
+  width: 100px;
   background-color: #blue;
   border-radius: 50%;
   display: inline-block;
@@ -36,4 +36,9 @@ color: black
   bottom: 25%;
   right: 25%;
   background-color: #ccffff
+}
+
+.circle>img{
+  height: 70%;
+  width: 70%;
 }
