@@ -1,8 +1,8 @@
 body{
 font-style: a=normal;
-background-color: #e6e6e6;
+background-color: #snow;
 text-align: center;
-color: black
+color: darkblue
 }
 /*rectangle formatting */
 .rectangles {
@@ -44,3 +44,28 @@ color: black
   bottom: 25%;
   right: 25%;
   background-color: ##ff3399
+
+  <header class="menu">
+   <p>Just a gal trying her best. -Going through some rough
+   patches but its okay.:</p>
+   <div class="menu-item display-inline">
+      A2
+   </div>
+   <div class="menu-item display-inline">
+      P1
+   </div>
+   <div class="menu-item display-inline">
+      A3
+   </div>
+   <div class="menu-item display-inline">
+      A4
+   </div>
+   <div class="menu-item display-inline">
+    P2
+   </div>
+   <div class="menu-item display-inline">
+    A5
+   </div>
+</header>.display-inline {
+      display: inline;
+  }
