@@ -1,5 +1,39 @@
 body{
 background-color: #e6e6e6;
 text-align: center;
+color: black
+}
 
+.circle {
+  height: 25px;
+  width: 25px;
+  background-color: #blue;
+  border-radius: 50%;
+  display: inline-block;
+}
+#orange {
+  Position: absolute
+  top:25%;
+  left: 25%;
+  background-color: #ffb84d
+}
+
+#darkblue {
+  Position: absolute
+  top: 25%;
+  right: 25%;
+  background-color: #000099
+}
+
+#yellow {
+  Position: absolute
+  bottom: 25%;
+  left: 25%;
+  background-color: #ffd633
+}
+#lightblue {
+  Position: absolute
+  bottom: 25%;
+  right: 25%;
+  background-color: #ccffff
 }
