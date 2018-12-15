@@ -1,0 +1,46 @@
+body{
+font-style: a=normal;
+background-color: #e6e6e6;
+text-align: center;
+color: black
+}
+/*rectangle formatting */
+.rectangles {
+  height: 100px;
+  width: 100px;
+  background-color: #snow;
+  border-radius: 50%;
+  display: inline-block;
+}
+/*Color formatting */
+#orange {
+  Position: absolute
+  top:25%;
+  left: 25%;
+  background-color: #ffb84d
+}
+
+#darkblue {
+  Position: absolute
+  top: 25%;
+  right: 25%;
+  background-color: #000099
+}
+
+#yellow {
+  Position: absolute
+  bottom: 25%;
+  left: 25%;
+  background-color: #ffd633
+}
+#Aqua {
+  Position: absolute
+  bottom: 25%;
+  right: 25%;
+  background-color: #00ffff
+}
+#Hotpink {
+  Position: absolute
+  bottom: 25%;
+  right: 25%;
+  background-color: ##ff3399
