@@ -7,5 +7,6 @@ ccffff, ffd633, 000099, and ffb84d.
 
 D.) Summarize your work cycle for this assignment. Review this page if you need some ideas.
 Cry, panic, denial, then acceptance and calm. Colors helped going through help process and blue is a soothing color shown to improve mental orange.
+
 E.) Embed a screenshot of your workspace at some point during your development cycle.
 ![Heres my workspace](Images/Screenshot_1.png)
