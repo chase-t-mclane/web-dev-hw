@@ -3,7 +3,7 @@ background-color: #e6e6e6;
 text-align: center;
 color: black
 }
-
+/*circle formatting */
 .circle {
   height: 100px;
   width: 100px;
@@ -11,6 +11,7 @@ color: black
   border-radius: 50%;
   display: inline-block;
 }
+/*Color formatting */
 #orange {
   Position: absolute
   top:25%;
@@ -38,7 +39,9 @@ color: black
   background-color: #ccffff
 }
 
+/* image formatting */
+
 .circle>img{
   height: 70%;
-  width: 70%;
+  opacity: 0.7;
 }
